@@ -1,3 +1,7 @@
 Это первый созданный файл! Я добавил его самым первым действием!
+<<<<<<< HEAD
 Another line from User1
+=======
+Line from User2
+>>>>>>> 2c2fc360017b73ac2084a0b3f847b3d8c2abe190
 Line from User1
